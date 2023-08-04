@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I'm [Pranesh!](https://praneshraokm.pages.dev/) 👋
 
-<!--
-**PraneshRaoKM/PraneshRaoKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>I am a research enthusiast Mechanical Engineer, with PhD in Metallurgical Engineering with exceptional expertise in programming and analytical thinking. I'm a quick learner with extraordinary leadership and communicative skills! Currently looking foward for challenging/revolutionary role in the industry.</h3>
 
-Here are some ideas to get you started:
+Find me on:-
+My website: https://praneshraokm.pages.dev/
+ReasearchGate: https://www.researchgate.net/profile/Pranesh-Rao-K-M
+LinkedIn: www.linkedin.com/mwlite/in/pranesh-rao-k-m-04b20821
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<a href="https://github.com/PraneshRaoKM">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PraneshRaoKM&count_private=true&theme=dracula" alt="Pranesh's GitHub Stats" />
+</a>
+
